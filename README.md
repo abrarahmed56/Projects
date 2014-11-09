@@ -22,12 +22,12 @@ Abrar Ahmed, Elia Portnoy
 
 
 #Mini Projects
-*login
-  *Abrar Ahmed, Elise Zlotnikova
-  *5/login/abrar_elise
-*regexp
-  *Abrar Ahmed, Alex Zilbersher
-  *5/regexp/abrar_alex
-*intro-proj 1
-  *Abrar Ahmed, Jerry Dai
-  *5/intro-proj1/abrar_jerry
+* login
+  * Abrar Ahmed, Elise Zlotnikova
+  * 5/login/abrar_elise
+* regexp
+  * Abrar Ahmed, Alex Zilbersher
+  * 5/regexp/abrar_alex
+* intro-proj 1
+  * Abrar Ahmed, Jerry Dai
+  * 5/intro-proj1/abrar_jerry
