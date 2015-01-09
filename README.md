@@ -20,6 +20,13 @@ blog
 Abrar Ahmed, Elia Portnoy
 ###Description
 
+##StuyApp (Final Project)
+###Team Members
+Abrar Ahmed, Andrew Sikowitz, Alex Zilbersher
+###Description
+Schedule analysis before school begins
+https://github.com/abrarahmed56/StuyApp
+
 
 #Mini Projects
 * login
